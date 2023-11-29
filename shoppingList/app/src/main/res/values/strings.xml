@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">train2</string>
+    <string-array name="shopping_items">
+        <item>Jogurt</item>
+        <item>Mléko</item>
+        <item>Hlávkový salát</item>
+        <item>Rajčata</item>
+        <item>Cukr</item>
+    </string-array>
+</resources>
